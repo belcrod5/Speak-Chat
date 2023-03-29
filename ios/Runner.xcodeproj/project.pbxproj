@@ -1,0 +1,555 @@
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	classes = ***REMOVED***
+***REMOVED***
+***REMOVED***
+	objects = ***REMOVED***
+
+***REMOVED***
+		1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */ = ***REMOVED***isa = PBXBuildFile; fileRef = 1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */; ***REMOVED***;
+		174AD9A302507A8D0D7996F9 /* Pods_Runner.framework in Frameworks */ = ***REMOVED***isa = PBXBuildFile; fileRef = DE168FEA089B21833AC4124D /* Pods_Runner.framework */; ***REMOVED***;
+		3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */ = ***REMOVED***isa = PBXBuildFile; fileRef = 3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */; ***REMOVED***;
+		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = ***REMOVED***isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; ***REMOVED***;
+		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = ***REMOVED***isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; ***REMOVED***;
+		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = ***REMOVED***isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; ***REMOVED***;
+		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = ***REMOVED***isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; ***REMOVED***;
+***REMOVED***
+
+***REMOVED***
+		9705A1C41CF9048500538489 /* Embed Frameworks */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */ = ***REMOVED***isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; ***REMOVED***;
+		1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */ = ***REMOVED***isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; ***REMOVED***;
+		2E382A4F0D11F328B83B2BEA /* Pods-Runner.release.xcconfig */ = ***REMOVED***isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.release.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"; sourceTree = "<group>"; ***REMOVED***;
+		3B3967151E833CAA004F5970 /* AppFrameworkInfo.plist */ = ***REMOVED***isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = AppFrameworkInfo.plist; path = Flutter/AppFrameworkInfo.plist; sourceTree = "<group>"; ***REMOVED***;
+		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = ***REMOVED***isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; ***REMOVED***;
+		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = ***REMOVED***isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; ***REMOVED***;
+		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = ***REMOVED***isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; ***REMOVED***;
+		9740EEB21CF90195004384FC /* Debug.xcconfig */ = ***REMOVED***isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = Flutter/Debug.xcconfig; sourceTree = "<group>"; ***REMOVED***;
+		9740EEB31CF90195004384FC /* Generated.xcconfig */ = ***REMOVED***isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; ***REMOVED***;
+		97C146EE1CF9000F007C117D /* Runner.app */ = ***REMOVED***isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Runner.app; sourceTree = BUILT_PRODUCTS_DIR; ***REMOVED***;
+		97C146FB1CF9000F007C117D /* Base */ = ***REMOVED***isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; ***REMOVED***;
+		97C146FD1CF9000F007C117D /* Assets.xcassets */ = ***REMOVED***isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; ***REMOVED***;
+		97C147001CF9000F007C117D /* Base */ = ***REMOVED***isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; ***REMOVED***;
+		97C147021CF9000F007C117D /* Info.plist */ = ***REMOVED***isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; ***REMOVED***;
+		A9001E849F125111B0468C3E /* Pods-Runner.debug.xcconfig */ = ***REMOVED***isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.debug.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; ***REMOVED***;
+		ADE3AD9AC625E94FE8E377C2 /* Pods-Runner.profile.xcconfig */ = ***REMOVED***isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Runner.profile.xcconfig"; path = "Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; ***REMOVED***;
+		DE168FEA089B21833AC4124D /* Pods_Runner.framework */ = ***REMOVED***isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; ***REMOVED***;
+***REMOVED***
+
+***REMOVED***
+		97C146EB1CF9000F007C117D /* Frameworks */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		374048902B03906B7D4B25F5 /* Pods */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+			name = Pods;
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+		467D98A66EDE8A0044605757 /* Frameworks */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+		9740EEB11CF90186004384FC /* Flutter */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C146E51CF9000F007C117D = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C146EF1CF9000F007C117D /* Products */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C146F01CF9000F007C117D /* Runner */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		97C146ED1CF9000F007C117D /* Runner */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		97C146E61CF9000F007C117D /* Project object */ = ***REMOVED***
+***REMOVED***
+			attributes = ***REMOVED***
+***REMOVED***
+***REMOVED***
+				TargetAttributes = ***REMOVED***
+					97C146ED1CF9000F007C117D = ***REMOVED***
+***REMOVED***
+***REMOVED***
+				***REMOVED***
+			***REMOVED***
+		***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		97C146EC1CF9000F007C117D /* Resources */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		075D3E133E342E04F7420EFC /* [CP] Embed Pods Frameworks */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+				"$***REMOVED***PODS_ROOT***REMOVED***/Target Support Files/Pods-Runner/Pods-Runner-frameworks-$***REMOVED***CONFIGURATION***REMOVED***-input-files.xcfilelist",
+***REMOVED***
+***REMOVED***
+***REMOVED***
+				"$***REMOVED***PODS_ROOT***REMOVED***/Target Support Files/Pods-Runner/Pods-Runner-frameworks-$***REMOVED***CONFIGURATION***REMOVED***-output-files.xcfilelist",
+***REMOVED***
+***REMOVED***
+***REMOVED***
+			shellScript = "\"$***REMOVED***PODS_ROOT***REMOVED***/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh\"\n";
+***REMOVED***
+	***REMOVED***
+		212A6E15391642E01C34F6EF /* [CP] Check Pods Manifest.lock */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+				"$***REMOVED***PODS_PODFILE_DIR_PATH***REMOVED***/Podfile.lock",
+				"$***REMOVED***PODS_ROOT***REMOVED***/Manifest.lock",
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+			shellScript = "diff \"$***REMOVED***PODS_PODFILE_DIR_PATH***REMOVED***/Podfile.lock\" \"$***REMOVED***PODS_ROOT***REMOVED***/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"$***REMOVED***SCRIPT_OUTPUT_FILE_0***REMOVED***\"\n";
+***REMOVED***
+	***REMOVED***
+		3B06AD1E1E4923F5004D2608 /* Thin Binary */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+				"$***REMOVED***TARGET_BUILD_DIR***REMOVED***/$***REMOVED***INFOPLIST_PATH***REMOVED***",
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+		9740EEB61CF901F6004384FC /* Run Script */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		97C146EA1CF9000F007C117D /* Sources */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		97C146FA1CF9000F007C117D /* Main.storyboard */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		249021D3217E4FDB00AE95B9 /* Profile */ = ***REMOVED***
+***REMOVED***
+			buildSettings = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+		***REMOVED***
+***REMOVED***
+	***REMOVED***
+		249021D4217E4FDB00AE95B9 /* Profile */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+			buildSettings = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+				DEVELOPMENT_TEAM = U8SYKSPD98;
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+				PRODUCT_BUNDLE_IDENTIFIER = com.falsehoodmask.speakchat;
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+		***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C147031CF9000F007C117D /* Debug */ = ***REMOVED***
+***REMOVED***
+			buildSettings = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+		***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C147041CF9000F007C117D /* Release */ = ***REMOVED***
+***REMOVED***
+			buildSettings = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+		***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C147061CF9000F007C117D /* Debug */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+			buildSettings = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+				DEVELOPMENT_TEAM = U8SYKSPD98;
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+				PRODUCT_BUNDLE_IDENTIFIER = com.falsehoodmask.speakchat;
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+		***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C147071CF9000F007C117D /* Release */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+			buildSettings = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+				DEVELOPMENT_TEAM = U8SYKSPD98;
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+				PRODUCT_BUNDLE_IDENTIFIER = com.falsehoodmask.speakchat;
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+		***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+
+***REMOVED***
+		97C146E91CF9000F007C117D /* Build configuration list for PBXProject "Runner" */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+		97C147051CF9000F007C117D /* Build configuration list for PBXNativeTarget "Runner" */ = ***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+	***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
