@@ -2,7 +2,7 @@
 
 > ChatGPTと音声で会話ができるアプリ<br />
 
-![SpeakChat (820 x 360 px)](https://user-images.githubusercontent.com/89951949/228479921-49b2da3c-92de-45f5-8c0d-abfec65de352.PNG)
+![SpeakChat (820 x 360 px)](https://user-images.githubusercontent.com/89951949/228485481-8751541c-6a8a-47f3-997a-075d0f012188.PNG)
 
 
 - Chat-Gpt-API (chat/completions)
