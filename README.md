@@ -39,4 +39,4 @@ Run the following commands from your terminal:
 
 
 ## LICENSE
-Speak Chat is MIT-licensed.
+Speak Chat is [MIT-licensed](https://github.com/belcrod5/Speak-Chat/blob/main/LICENSE).
