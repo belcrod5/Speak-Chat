@@ -16,7 +16,7 @@
 ## Getting Started
 
 プロジェクト直下に .envファイルを用意してご自身のAPIキーを入力してください<br />
-`OPEN_AI_API_KEY=***REMOVED***APIキー***REMOVED***`
+`OPEN_AI_API_KEY={APIキー}`
 
 ## Setup
 

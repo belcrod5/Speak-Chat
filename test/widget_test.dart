@@ -10,8 +10,8 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:speak_chat/main.dart';
 
-void main() ***REMOVED***
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async ***REMOVED***
+void main() {
+  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
     await tester.pumpWidget(const MyApp());
 
@@ -26,5 +26,5 @@ void main() ***REMOVED***
     // Verify that our counter has incremented.
     expect(find.text('0'), findsNothing);
     expect(find.text('1'), findsOneWidget);
-  ***REMOVED***);
-***REMOVED***
+  });
+}
