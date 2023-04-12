@@ -3,6 +3,7 @@ PODS:
     - Flutter
   - Flutter (1.0.0)
   - flutter_beep (0.0.1):
+  - flutter_native_splash (0.0.1):
     - Flutter
   - flutter_tts (0.0.1):
     - Flutter
@@ -22,6 +23,7 @@ DEPENDENCIES:
   - audio_session (from `.symlinks/plugins/audio_session/ios`)
   - Flutter (from `Flutter`)
   - flutter_beep (from `.symlinks/plugins/flutter_beep/ios`)
+  - flutter_native_splash (from `.symlinks/plugins/flutter_native_splash/ios`)
   - flutter_tts (from `.symlinks/plugins/flutter_tts/ios`)
   - keep_screen_on (from `.symlinks/plugins/keep_screen_on/ios`)
   - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
@@ -39,6 +41,8 @@ EXTERNAL SOURCES:
     :path: Flutter
   flutter_beep:
     :path: ".symlinks/plugins/flutter_beep/ios"
+  flutter_native_splash:
+    :path: ".symlinks/plugins/flutter_native_splash/ios"
   flutter_tts:
     :path: ".symlinks/plugins/flutter_tts/ios"
   keep_screen_on:
@@ -54,6 +58,7 @@ SPEC CHECKSUMS:
   audio_session: 4f3e461722055d21515cf3261b64c973c062f345
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   flutter_beep: 54fb393b22dfa0f0e4573c81b1c74dd71c4e5af8
+  flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
   flutter_tts: 0f492aab6accf87059b72354fcb4ba934304771d
   keep_screen_on: e9070104e4f365251dbdcf2596684f40abf6e46e
   shared_preferences_foundation: 986fc17f3d3251412d18b0265f9c64113a8c2472
