@@ -68,7 +68,6 @@
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-			name = Pods;
 ***REMOVED***
 ***REMOVED***
 	***REMOVED***
@@ -359,14 +358,17 @@
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-				DEVELOPMENT_TEAM = U8SYKSPD98;
+***REMOVED***
+***REMOVED***
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 	***REMOVED***
-				PRODUCT_BUNDLE_IDENTIFIER = com.falsehoodmask.speakchat;
+***REMOVED***
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
@@ -488,14 +490,17 @@
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-				DEVELOPMENT_TEAM = U8SYKSPD98;
+***REMOVED***
+***REMOVED***
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 	***REMOVED***
-				PRODUCT_BUNDLE_IDENTIFIER = com.falsehoodmask.speakchat;
+***REMOVED***
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
@@ -511,14 +516,17 @@
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-				DEVELOPMENT_TEAM = U8SYKSPD98;
+***REMOVED***
+***REMOVED***
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
 	***REMOVED***
-				PRODUCT_BUNDLE_IDENTIFIER = com.falsehoodmask.speakchat;
+***REMOVED***
+***REMOVED***
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
